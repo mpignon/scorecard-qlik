@@ -11,6 +11,7 @@ Please visit [PIT Business Website](http://www.pit-business.com) to **discover o
 Ability to list multidisciplinary KPI’s which by their nature have different:<
 - **Time periods**: Default current period, Previous period, Comparison period
 - **Aggregations**: Sum for revenue, Average or Last for FTE’s, Ratio for Satisfaction
+- **Cross KPI's**: Complex calculation with weights, 0.6*Measure8 + 0.4*Measure9
 ![Scorecard - PIT Business - Growths](img/scorecard-screenshot-growths.png)<br>
 
 Each KPI has its own **score** rules:
@@ -19,6 +20,11 @@ Each KPI has its own **score** rules:
 - **Tolerances**: My score is < 80%, <100%, >= 110%
 - **Color-coding's**: [80%;100%] => [red;orange;green]
 ![Scorecard - PIT Business - Scores](img/scorecard-screenshot-scores.png)
+
+Navigate & cascade simultaneously through **multiple perspectives** due to multi-dimensional live calculations:
+![Scorecard - PIT Business - Scores](img/scorecard-screenshot-multidimensional.png)
+
+All these features available in a customizable **Qlik Sense extension**:
 ![Scorecard - PIT Business - Edit](img/scorecard-screenshot-edit.png)
 
 
