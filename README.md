@@ -8,7 +8,7 @@ Please visit [PIT Business Website](http://www.pit-business.com) to **discover o
 <br>
 [![Scorecard - PIT Business - Screencast](img/scorecard-screenshot-playvideo.png)](https://drive.google.com/file/d/1vB3rX8PORDdAptW21SpvbcuzDOZEcHMe/preview)<br>
 ![Scorecard - PIT Business - Growths](img/scorecard-screenshot-growths.png)
-![Scorecard - PIT Business - Scores](img/scorecard-screenshot-gscores.png)
+![Scorecard - PIT Business - Scores](img/scorecard-screenshot-scores.png)
 ![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editmeasure1.png)
 ![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editmeasure2.png)
 ![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editmeasure3.png)
