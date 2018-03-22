@@ -1,12 +1,10 @@
 ### PIT Business
 This content is part of a library of solutions build by PIT Business based on the experience of its experts.<br>
-Please visit [PIT Business Website](http://www.pit-business.com) to **discover our Services and Solutions** for<br>
-Scorecard, Stratgy Map, Master Data Management, BI Catalog, BI ChatBot, Project Portfolio Management, Dependency Graphs, ...<br>
+Please visit [PIT Business Website](http://www.pit-business.com) to **discover our Services and Solutions** for Scorecard, Stratgy Map, Master Data Management, BI Catalog, BI ChatBot, Project Portfolio Management, Dependency Graphs, ...<br>
 *PIT Business, the best Qlik Influence Partner in Luxembourg & Belgium.*<br>
 
 # Scorecard
-**Scorecards** provide an organization with an ideal way for executing and controlling its strategy by tracking the right **Key Performance Indicators (KPI's)** in comparison to corresponding **targets** and as such enabling visibility in every direction. Furthermore scorecarding helps in *aligning and empowering* the different teams and departmental layers which are present in an organization, by effectively *communicating goals and their actual performance* in a consistent way.<br>
-[Source](http://www.element61.be/en/competence/strategy-management-scorecarding)
+**Scorecards** provide an organization with an ideal way for executing and controlling its strategy by tracking the right **Key Performance Indicators (KPI's)** in comparison to corresponding **targets** and as such enabling visibility in every direction. Furthermore scorecarding helps in **aligning and empowering** the different teams and departmental layers which are present in an organization, by effectively **communicating goals and their actual performance** in a consistent way. [Source](http://www.element61.be/en/competence/strategy-management-scorecarding)
 
 ----------
 
