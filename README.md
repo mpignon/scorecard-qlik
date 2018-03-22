@@ -7,7 +7,16 @@ Please visit [PIT Business Website](http://www.pit-business.com) to **discover o
 **Scorecards** provide an organization with an ideal way for executing and controlling its strategy by tracking the right **Key Performance Indicators (KPI's)** in comparison to corresponding **targets** and as such enabling visibility in every direction. Furthermore scorecarding helps in **aligning and empowering** the different teams and departmental layers which are present in an organization, by effectively **communicating goals and their actual performance** in a consistent way. [Source](http://www.element61.be/en/competence/strategy-management-scorecarding).<br>
 <br>
 [![Scorecard - PIT Business - Screencast](img/scorecard-screenshot-playvideo.png)](https://drive.google.com/file/d/1vB3rX8PORDdAptW21SpvbcuzDOZEcHMe/preview)<br>
+<br>
+Ability to list multidisciplinary KPI’s which by their nature have different:<br>
+- **Time periods**: Default current period, Previous period, Comparison period
+- **Aggregations**: Sum for revenue, Average or Last for FTE’s, Ratio for Satisfaction
 ![Scorecard - PIT Business - Growths](img/scorecard-screenshot-growths.png)
+Each KPI has its own **score** rules:<br>
+- **Target**: Dedicated facts, Derived from Actuals
+- **Direction**: Above the target, Below the target, On the target
+- **Tolerances**: My score is < 80%, <100%, >= 110%
+- **Color-coding's**: [80%;100%] => [red;orange;green]
 ![Scorecard - PIT Business - Scores](img/scorecard-screenshot-scores.png)
 ![Scorecard - PIT Business - Edit](img/scorecard-screenshot-edit.png)
 
