@@ -9,10 +9,10 @@ Please visit [PIT Business Website](http://www.pit-business.com) to **discover o
 [![Scorecard - PIT Business - Screencast](img/scorecard-screenshot-playvideo.png)](https://drive.google.com/file/d/1vB3rX8PORDdAptW21SpvbcuzDOZEcHMe/preview)<br>
 ![Scorecard - PIT Business - Growths](img/scorecard-screenshot-growths.png)
 ![Scorecard - PIT Business - Scores](img/scorecard-screenshot-scores.png)
-![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editmeasure1.png=220x)
-![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editmeasure2.png=220x)
-![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editmeasure3.png=220x)
-![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editdimension1.png=220x)
+![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editmeasure1.png =220x)
+![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editmeasure2.png =220x)
+![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editmeasure3.png =220x)
+![Scorecard - PIT Business - Edit](img/scorecard-screenshot-editdimension1.png =220x)
 
 ----------
 
