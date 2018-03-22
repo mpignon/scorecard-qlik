@@ -8,11 +8,12 @@ Please visit [PIT Business Website](http://www.pit-business.com) to **discover o
 <br>
 [![Scorecard - PIT Business - Screencast](img/scorecard-screenshot-playvideo.png)](https://drive.google.com/file/d/1vB3rX8PORDdAptW21SpvbcuzDOZEcHMe/preview)<br>
 <br>
-Ability to list multidisciplinary KPI’s which by their nature have different:<br>
+Ability to list multidisciplinary KPI’s which by their nature have different:<
 - **Time periods**: Default current period, Previous period, Comparison period
 - **Aggregations**: Sum for revenue, Average or Last for FTE’s, Ratio for Satisfaction
-![Scorecard - PIT Business - Growths](img/scorecard-screenshot-growths.png)
-Each KPI has its own **score** rules:<br>
+![Scorecard - PIT Business - Growths](img/scorecard-screenshot-growths.png)<br>
+
+Each KPI has its own **score** rules:
 - **Target**: Dedicated facts, Derived from Actuals
 - **Direction**: Above the target, Below the target, On the target
 - **Tolerances**: My score is < 80%, <100%, >= 110%
