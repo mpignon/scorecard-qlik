@@ -24,7 +24,7 @@ Each KPI has its own **score** rules:
 Navigate & cascade simultaneously through **multiple perspectives** due to multi-dimensional live calculations:
 ![Scorecard - PIT Business - Scores](img/scorecard-screenshot-multidimensional.png)
 
-All these features available in a customizable **Qlik Sense extension**:
+All these features available in a customizable **Qlik Sense extension**, developed & supported by your official Qlik Sense Influence Partner [PIT Business](http://www.pit-business.com)
 ![Scorecard - PIT Business - Edit](img/scorecard-screenshot-edit.png)
 
 
