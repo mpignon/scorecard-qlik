@@ -8,10 +8,10 @@ Please visit [PIT Business Website](http://www.pit-business.com) to **discover o
 <br>
 [![Scorecard - PIT Business - Screencast](img/scorecard-screenshot-playvideo.png)](https://drive.google.com/file/d/1vB3rX8PORDdAptW21SpvbcuzDOZEcHMe/preview)<br>
 <br>
-Ability to list multidisciplinary KPI’s which by their nature have different:<
+Ability to list multidisciplinary KPI’s which by their nature have different:
 - **Time periods**: Default current period, Previous period, Comparison period
 - **Aggregations**: Sum for revenue, Average or Last for FTE’s, Ratio for Satisfaction
-- **Cross KPI's**: Complex calculation with weights, 0.6*Measure8 + 0.4*Measure9
+- **Cross KPI's**: Complex calculation with weights, 0.6 x Measure8 + 0.4 x Measure9
 ![Scorecard - PIT Business - Growths](img/scorecard-screenshot-growths.png)<br>
 
 Each KPI has its own **score** rules:
@@ -39,8 +39,6 @@ All these features available in a customizable **Qlik Sense extension**, develop
  - If BICC/IT needs to provide a datamodel to manage KPI's definitions and metadata
  - For BICC/IT to provide a Scorecard solution on top of Qlik Sense platform, to keep the governance in Qlik platform
  - Enjoy all the power and performance of the Qlik associative model
-
-----------
 
 ## Versions
 
