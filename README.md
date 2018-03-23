@@ -30,15 +30,15 @@ All these features available in a customizable **Qlik Sense extension**, develop
 
 ## Which challenges does it address?
 
+**Business Users**
+- Solution to track the right KPI's in comparison to targets
+- Address a reliable Scorecard framework to handle all the complexity and flexibility of KPI's definitions
+- Get a Scorecard solution aligned with company's standards & guidelines and current infrastructure
+
 **BICC/IT**
  - If BICC/IT needs to provide a datamodel to manage KPI's definitions and metadata
  - For BICC/IT to provide a Scorecard solution on top of Qlik Sense platform, to keep the governance in Qlik platform
  - Enjoy all the power and performance of the Qlik associative model
-
-**Business Users**
- - Solution to track the right KPI's in comparison to targets
- - Address a reliable Scorecard framework to handle all the complexity and flexibility of KPI's definitions
- - Get a Scorecard solution aligned with company's standards & guidelines and current infrastructure
 
 ----------
 
@@ -53,6 +53,7 @@ Version: 1.3
   -  Period information in Tooltips
   -  Inline charts for measures
   -  Extension working 100% offline
+  -  Pre-defined ratio calculations: RatioCurrentPreviousActual, RatioCurrentActualTarget, RatioPreviousActualTarget, ...
 
 Version: 1.2
   -  Score calculation with Tolerances
@@ -69,6 +70,8 @@ Version: 1.1
   -  Tooltips for dimensions
 
 ## Architecture
+![Scorecard - PIT Business - Architecture](img/scorecard-architecture.png)<br>
+Techonologies: Qlik Sense, HTML, CSS, JavaScript, JQuery, MySQL, PostgreSQL, SQL Server, Excel, MongoDB, Oracle Database, SQL Server, and many more databases compatible.
 
 ## Quick-install
 
