@@ -74,6 +74,15 @@ Version: 1.1
 Techonologies: Qlik Sense, HTML, CSS, JavaScript, JQuery, MySQL, PostgreSQL, SQL Server, Excel, MongoDB, Oracle Database, SQL Server, and many more databases compatible.
 
 ## Quick-install
+This Scorecard Extension is not available Open Source, please [contact PIT Business](http://www.pit-business.com) to get the Scorecard Solution.<br>
+
+1. In Qlik Sense QMC > Extensions > Import the ZIP containing source files
+2. In Qlik Sense QMC > Apps > Import the 2 Scorecard Apps
+3. Your Scorecard application is installed and running with default Scorecards, KPIs and Figures
+4. Adapt your Scorecards & KPIs in the provided "Scorecard & KPI framework" Data Model
+5. Adapt your Figures in the provided "Figures in Star Schema" Data Model
+6. Option: Edit the "KPI KPILists" Load Script section to plug the Scorecard to your "Scorecard & KPI framework" Data Model
+7. Option: Edit the "Facts" Load Script section to plug the Scorecard to your "Figures in Star Schema" Data Model
 
 ----------
 
