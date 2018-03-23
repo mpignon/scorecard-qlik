@@ -28,33 +28,45 @@ All these features available in a customizable **Qlik Sense extension**, develop
 ![Scorecard - PIT Business - Edit](img/scorecard-screenshot-edit.png)
 
 
-----------
-
 ## Which challenges does it address?
 
 **BICC/IT**
- - If personal apps are forwarded to the BICC to productionize them, it is hard to BICC to apply the corporate governance and best practices
- - BICC is often contacted be Business Users to guide them to existing apps
- - Today the BICC doesn‘t have any chance to provision data/data models to the Business Users for Self Service scenarios
- - Everytime a user is connecting directly to a spefic data source, Corporate Security definition is lost
-Local copys of corporate data create huge compliance issue
+ - If BICC/IT needs to provide a datamodel to manage KPI's definitions and metadata
+ - For BICC/IT to provide a Scorecard solution on top of Qlik Sense platform, to keep the governance in Qlik platform
+ - Enjoy all the power and performance of the Qlik associative model
 
 **Business Users**
- - Qlik Business Users don‘t have an overview over the content available within their entire Qlik enviroment and the given functionality
- - As a workaround some Business Users build their own apps. This sometimes leads to a shadow IT scenario
- - This is very time consuming and sometimes frustrating: Business Users typically don‘t want to reinvent the wheel (e.g. Salesforce datamodel)
+ - Solution to track the right KPI's in comparison to targets
+ - Address a reliable Scorecard framework to handle all the complexity and flexibility of KPI's definitions
+ - Get a Scorecard solution aligned with company's standards & guidelines and current infrastructure
 
 ----------
 
 ## Versions
 
-Version: 1.1.0
-  -  Switched communication with Engine API from qsocks to enigmajs
-  -  Some small design fixes
+Version: 1.4
+  -  Possibility to change the period from default period to custom period for all KPI's
+  -  Multiple hierarchies of responsibilities (Multi-dimensional)
+  -  Dedicated picture by KPI
 
+Version: 1.3
+  -  Period information in Tooltips
+  -  Inline charts for measures
+  -  Extension working 100% offline
 
-Version: 1.0.2
-  -  A new Meta Application has been added to the repository to support Qlik Sense November 2017
+Version: 1.2
+  -  Score calculation with Tolerances
+  -  Growth calculation with Tolerances
+  -  Score & Growth Icons with Color-coding's
+  -  Filter inside-set for measures
+
+Version: 1.1
+  -  Dedicated Actual & Target calculation by KPI
+  -  Dedicated default period by KPI
+  -  Style with classes by column
+  -  Link URL for dimensions
+  -  Hierarchy indent for dimensions
+  -  Tooltips for dimensions
 
 ## Architecture
 
