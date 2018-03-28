@@ -69,7 +69,7 @@ Version: 1.1
 
 ## Architecture
 ![Scorecard - PIT Business - Architecture](img/scorecard-architecture.png)<br>
-Techonologies: Qlik Sense, HTML, CSS, JavaScript, JQuery, MySQL, PostgreSQL, SQL Server, Excel, MongoDB, Oracle Database, SQL Server, and many more databases compatible.
+Technologies: Qlik Sense, HTML, CSS, JavaScript, JQuery, MySQL, PostgreSQL, SQL Server, Excel, MongoDB, Oracle Database, SQL Server, and many more databases compatible.
 
 ### Quick installation
 This Scorecard Extension is not available without context introduction and basic understandings, please [contact PIT Business](http://www.pit-business.com) to get the Scorecard Solution.<br>
